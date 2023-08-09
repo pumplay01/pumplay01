@@ -1,17 +1,17 @@
 - 👋 Hi, I’m @pumplay01
-- #1 Customer Data Plateform && Customer Single View
+- #Chapter 1 Customer Data Plateform && Customer Single View
 -     Basic concept for the first step of customer data analytics
 -     Basic calculate with python and powerBI
-- #2 Customer Lifetime Value
+- #Chapter 2 Customer Lifetime Value
 -     How to calculate CLV
 -     Use CLV to make a decision
-- #3 Customer Scoring && Churn && Campaign Respone
+- #Chapter 3 Customer Scoring && Churn && Campaign Respone
 -     Basic concept
 -     Develop concept
-- #4 Customer Segment %% Segment Movement Analysis && Product Recommend
+- #Chapter 4 Customer Segment %% Segment Movement Analysis && Product Recommend
 -     Basic concpet customer segment
 -     Develop concept
-- #5 Voice of Customer
+- #Chapter 5 Voice of Customer
 -     Basic concept of voice customer
 -     Develop concept and analyses
    
