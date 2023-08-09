@@ -1,8 +1,20 @@
 - 👋 Hi, I’m @pumplay01
-- #1 Customer Data Plateform
--     basic concept for the first step of customer data analytics
-- #1 Customer Single Data Analytics
--     basic calculate with python and powerBI
+- #1 Customer Data Plateform && Customer Single View
+-     Basic concept for the first step of customer data analytics
+-     Basic calculate with python and powerBI
+- #2 Customer Lifetime Value
+-     How to calculate CLV
+-     Use CLV to make a decision
+- #3 Customer Scoring && Churn && Campaign Respone
+-     Basic concept
+-     Develop concept
+- #4 Customer Segment %% Segment Movement Analysis && Product Recommend
+-     Basic concpet customer segment
+-     Develop concept
+- #5 Voice of Customer
+-     Basic concept of voice customer
+-     Develop concept and analyses
+   
 
 <!---
 pumplay01/pumplay01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
