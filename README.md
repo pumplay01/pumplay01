@@ -14,7 +14,7 @@
 - #Chapter 5 Voice of Customer
 -     Basic concept of voice customer
 -     Develop concept and analyses
-- #Chapter 6 additonal explore data both type CHAR and NUM aumaticly
+- #Chapter 6 Explore_Function
 -     Python Code
 
 <!---
