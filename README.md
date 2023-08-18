@@ -14,7 +14,8 @@
 - #Chapter 5 Voice of Customer
 -     Basic concept of voice customer
 -     Develop concept and analyses
-   
+- #Chapter 6 additonal explore data both type CHAR and NUM aumaticly
+-     Python Code
 
 <!---
 pumplay01/pumplay01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
